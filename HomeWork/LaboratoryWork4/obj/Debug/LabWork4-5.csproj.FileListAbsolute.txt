@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\HomeWork-master\LaboratoryWork5.1\LaboratoryWork4\obj\Debug\LabWork4-5.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\HomeWork-master\LaboratoryWork5.1\LaboratoryWork4\obj\Debug\LabWork4.Form1.resources
+C:\Users\admin\Desktop\HomeWork-master\LaboratoryWork5.1\LaboratoryWork4\obj\Debug\LaboratoryWork4.Properties.Resources.resources
+C:\Users\admin\Desktop\HomeWork-master\LaboratoryWork5.1\LaboratoryWork4\obj\Debug\LabWork4-5.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\HomeWork-master\LaboratoryWork5.1\LaboratoryWork4\obj\Debug\LabWork4-5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HomeWork-master\LaboratoryWork5.1\LaboratoryWork4\obj\Debug\LaboratoryWork4.exe
+C:\Users\admin\Desktop\HomeWork-master\LaboratoryWork5.1\LaboratoryWork4\obj\Debug\LaboratoryWork4.pdb
